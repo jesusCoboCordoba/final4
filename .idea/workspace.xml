@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4043536f-ea8b-4254-9ed1-d1d89fb0b536" name="Changes" comment="" />
+    <list default="true" id="4043536f-ea8b-4254-9ed1-d1d89fb0b536" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6531167a-a36f-4fdc-8182-e68886c5c533.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6531167a-a36f-4fdc-8182-e68886c5c533/storage_v2/_src_/schema/world.khvBBg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/dao/CityDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/dao/CountryDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/domain/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/domain/Continent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/domain/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/domain/CountryLanguage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/domain/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/redis/CityCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/redis/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mvnexample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spy.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +40,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jesusCoboCordoba&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jesusCoboCordoba/final4.git&quot;,
+    &quot;accountId&quot;: &quot;08f28279-629e-4858-8c92-25648b1f87e4&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -30,6 +67,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Usuario/hibernate-final/final-module4",
@@ -74,6 +112,14 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -85,6 +131,7 @@
       <workItem from="1737159160137" duration="1093000" />
       <workItem from="1738084302768" duration="3119000" />
       <workItem from="1738092783114" duration="3003000" />
+      <workItem from="1738109440196" duration="864000" />
     </task>
     <servers />
   </component>
